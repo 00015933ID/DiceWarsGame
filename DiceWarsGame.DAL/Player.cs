@@ -8,46 +8,46 @@ namespace DiceWarsGame.DAL
 {
     public class Player
     {
-        private string _pl_name_16603;
-        private DateTime _pl_last_game_date_16603;
-        private int _pl_score_16603;
+        private string _pl_name_15933;
+        private DateTime _pl_last_game_date_15933;
+        private int _pl_score_15933;
 
-        public int pl_id_16603 { get; set; }
+        public int pl_id_15933 { get; set; }
 
-        public string pl_name_16603
+        public string pl_name_15933
         {
-            get => _pl_name_16603;
+            get => _pl_name_15933;
             set
             {
                 if (string.IsNullOrEmpty(value))
                     throw new Exception("Name cannot be empty");
-                _pl_name_16603 = value;
+                _pl_name_15933 = value;
             }
         }
 
-        public bool _pl_is_pvp_enabled_16603 { get; set; }
+        public bool pl_is_pvp_enabled_15933 { get; set; }
 
-        public DateTime pl_last_game_date_16603
+        public DateTime pl_last_game_date_15933
         {
 
-            get => _pl_last_game_date_16603;
+            get => _pl_last_game_date_15933;
             set
             {
                 if (value > DateTime.Now)
                     throw new Exception("Invalid Date");
-                _pl_last_game_date_16603 = value;
+                _pl_last_game_date_15933 = value;
             }
         }
 
 
-        public int pl_score_16603
+        public int pl_score_15933
         {
-            get => _pl_score_16603;
+            get => _pl_score_15933;
             set
             {
-                if (_pl_score_16603 == null)
+                if (_pl_score_15933 == null)
                     throw new Exception("Score cannot be empty");
-                _pl_score_16603 = value;
+                _pl_score_15933 = value;
             }
         }
 
