@@ -8,12 +8,13 @@ namespace DiceWarsGame.DAL
 {
     public class Player
     {
-        private string _pl_name_15933;
+        public string _pl_name_15933;
         private DateTime _pl_last_game_date_15933;
         private int _pl_score_15933;
 
         public int pl_id_15933 { get; set; }
 
+        //Validation of player
         public string pl_name_15933
         {
             get => _pl_name_15933;
@@ -39,7 +40,6 @@ namespace DiceWarsGame.DAL
             }
         }
 
-
         public int pl_score_15933
         {
             get => _pl_score_15933;
@@ -51,5 +51,17 @@ namespace DiceWarsGame.DAL
             }
         }
 
+        public Player()
+        {
+
+        }
+
+        public Player(string pl_name_15933, bool pl_is_pvp_enabled_15933, DateTime pl_last_game_date_15933, int pl_score_15933)
+        {
+            _pl_name_15933 = pl_name_15933;
+            pl_is_pvp_enabled_15933 = pl_is_pvp_enabled_15933;
+            _pl_last_game_date_15933 = pl_last_game_date_15933;
+            _pl_score_15933 = pl_score_15933;
+        }
     }
 }

@@ -1,0 +1,15 @@
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.csproj.AssemblyReference.cache
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.AssemblyInfoInputs.cache
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.AssemblyInfo.cs
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.csproj.CoreCompileInputs.cache
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\bin\Debug\net6.0-windows\DiceWarsGame.DAL.dll.config
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\bin\Debug\net6.0-windows\DiceWarsGame.DAL.deps.json
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\bin\Debug\net6.0-windows\DiceWarsGame.DAL.runtimeconfig.json
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\bin\Debug\net6.0-windows\DiceWarsGame.DAL.dll
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\bin\Debug\net6.0-windows\DiceWarsGame.DAL.pdb
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.dll
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\refint\DiceWarsGame.DAL.dll
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.pdb
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\DiceWarsGame.DAL.genruntimeconfig.cache
+D:\FunPro.CW1.15933\DiceWarsGame.DAL\obj\Debug\net6.0-windows\ref\DiceWarsGame.DAL.dll
